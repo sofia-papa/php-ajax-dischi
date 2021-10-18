@@ -3,3 +3,33 @@
     padding: 0;
     box-sizing: border-box;
 }
+body{
+    background-color: #2e3a46;
+}
+
+.container{
+    height: 100%;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.cd-album{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.dischi-album{
+    flex-basis: calc(100% / 5);
+    flex-grow: 0;
+
+    color: white;
+    background-color: #4e6b86;
+    padding: 35px;
+    margin-bottom: 20px;
+}
+
+.dischi-album img {
+    max-width: 100%;
+}
