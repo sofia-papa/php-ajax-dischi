@@ -9,14 +9,14 @@ $dischi = [
         "year" =>"1988"
     ],
     [
-        "poster" => "https:\/\/img.discogs.com\/vknPDdrqRbT92pNRX0W4I5N91jg=\/fit-in\/300x300\/filters:strip_icc():format(jpeg):mode_rgb():quality(40)\/discogs-images\/R-1246953-1448927086-6590.jpeg.jpg",
+        "poster" => "https://static.posters.cz/image/750/pinturas-sobre-lienzo-queen-live-at-wembley-stadium-i80367.jpg",
         "title" => "Live at Wembley 86",
         "author" => "Queen",
         "genre" =>"Pop",
         "year" =>"1992"
     ],
     [
-        "poster" => "https:\/\/images-na.ssl-images-amazon.com\/images\/I\/41JD3CW65HL.jpg",
+        "poster" => "https://m.media-amazon.com/images/I/411BQR6BHRL.jpg",
         "title" => "Ten's Summoner's Tales",
         "author" => "Sting",
         "genre" =>"Pop",
@@ -30,7 +30,7 @@ $dischi = [
         "year" =>"2018"
     ],
     [
-        "poster" => "https:\/\/images-na.ssl-images-amazon.com\/images\/I\/810nSIQOLiL._SY355_.jpg",
+        "poster" => "https://img.discogs.com/_V74DXMmgTGaCkvhrimGsJ0Kv5Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1553386-1625152116-6211.jpeg.jpg",
         "title" =>"Brave new World",
         "author" =>"Iron Maiden",
         "genre" =>"Metal",
@@ -44,28 +44,28 @@ $dischi = [
         "year" =>"2002"
     ],
     [
-        "poster" => "https:\/\/images-na.ssl-images-amazon.com\/images\/I\/51rggtPgmRL.jpg",
+        "poster" => "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Deep_Purple_Made_in_Japan.jpg/220px-Deep_Purple_Made_in_Japan.jpg",
         "title"=>"Made in Japan",
         "author"=>"Deep Purple",
         "genre"=>"Rock",
         "year"=>"1972"
     ],
     [
-        "poster" => "https:\/\/images-na.ssl-images-amazon.com\/images\/I\/81r3FVfNG3L._SY355_.jpg",
+        "poster" => "https://images-na.ssl-images-amazon.com/images/I/51ZnAP3vmZL.jpg",
         "title"=>"And Justice for All",
         "author"=>"Metallica",
         "genre"=>"Metal",
         "year"=>"1988"
     ],
     [
-        "poster"=> "https:\/\/img.discogs.com\/KOBsqQwKiNKH-q927oHMyVdDzSo=\/fit-in\/596x596\/filters:strip_icc():format(jpeg):mode_rgb():quality(90)\/discogs-images\/R-6406665-1418464475-6120.jpeg.jpg",
+        "poster"=> "https://img.discogs.com/9Wpfc4Y5G8nT1I-H-eqG3-SJwZk=/fit-in/596x596/filters:strip_icc():format(webp):mode_rgb():quality(90)/discogs-images/R-2173446-1296926502.jpeg.jpg",
         "title"=>"Hard Wired",
         "author"=>"Dave Weckl",
         "genre"=>"Jazz",
         "year"=>"1994"
     ],
     [
-        "poster"=> "https:\/\/m.media-amazon.com\/images\/I\/71K9CbNZPsL._SS500_.jpg",
+        "poster"=> "https://los40es00.epimg.net/los40/imagenes/los40classic/2014/11/1518134-bad-michael-jackson-orig-1.jpg",
         "title"=>"Bad",
         "author"=>"Michael Jacjson",
         "genre"=>"Pop",

@@ -16,7 +16,7 @@
 <body>
     <div class="container">
         <header>
-            <img src="" alt="spotify logo">
+            <img src="https://1000logos.net/wp-content/uploads/2021/04/Spotify-logo.png" alt="spotify logo">
         </header>
 
         <div class="cd-album">
